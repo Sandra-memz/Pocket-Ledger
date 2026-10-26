@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "type": "Income",
+        "amount": 900000.0,
+        "category": "Salary",
+        "description": "monthly income",
+        "date": "2026-10-26 21:23:21"
+    },
+    {
+        "id": 2,
+        "type": "Expense",
+        "amount": 30000.0,
+        "category": "Rent",
+        "description": "housing",
+        "date": "2026-10-26 21:24:32"
+    }
+]
